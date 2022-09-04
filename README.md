@@ -3,7 +3,7 @@
 
 > 此博客模版为hux blog
 
-[User Manual 👉](_doc/Manual.md)
+[User Manual](_doc/Manual.md)
 --------------------------------------------------
 
 ### Development (Build From Source)
@@ -23,7 +23,7 @@ This theme uses the default code syntax highlighter of jekyll, [Rouge](http://ro
 Other Resources
 ---------------
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
 
 License
