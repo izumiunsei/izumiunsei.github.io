@@ -21,7 +21,11 @@ tags:
     ```bash
     brew install gpg
     ```
+3. macOS生成GPG keys
     https://docs.github.com/cn/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+3. macOS生成SSH keys
+    https://www.jianshu.com/p/63b82385c519
+    https://blog.csdn.net/wangjunling888/article/details/51115659
 
 ### git 相关
 1. git 修改远程仓库地址
@@ -29,4 +33,41 @@ tags:
     git remote rm origin
     git remote add origin [url]
     ```
+2. git 推送远程仓库标准流程
+    ```bash
+    git init # 初始化git
+    git add . # 添加当前文件夹下所有内容
+    git commit -m “工作内容总结，自由填写” # commit可作“递交“解
+    git remote add origin [url] # 在repo主界面点击绿色的“code”即可复制相应repo的url
+    git branch -M main
+    git push -u origin main
+    ```
+
+### GitHub desktop相关
+1. 如何登出
+    快捷键：ctrl + ，
+    不那么快的方法：
+    For Mac
+        Top Left corner of the screen, next to Mac symbol->==Github->Preference->Accounts->signout==
+    
+    For Windows 
+        Inside github, Right side next to Sync->Settings symbol->options->log out
+
+### 命令行相关
+1. 我在用的是哪个shell
+    https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/
+2. tree命令
+    https://segmentfault.com/a/1190000009962072
+
+
+### Jekyll相关
+1. macOS安装Jekyll
+    https://zhuanlan.zhihu.com/p/350462079
+
+## 会用到的网站
+1. kramdown语法
+    https://kramdown.gettalong.org/syntax.html#links-and-images
+2. Jekyll官网
+    中文： https://www.jekyll.com.cn
+    英文： https://jekyllrb.com
 
