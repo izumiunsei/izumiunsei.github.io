@@ -46,13 +46,13 @@ tags:
     ```
 
 ### GitHub desktop相关
-1. 如何登出
-    快捷键：ctrl + ，
-    不那么快的方法：
-    For Mac
-        Top Left corner of the screen, next to Mac symbol->`Github`->Preference->Accounts->signout
+1. 如何登出  
+    快捷键：ctrl + ，  
+    不那么快的方法：  
+    For Mac  
+        Top Left corner of the screen, next to Mac symbol->`Github desktop`->`Preference`->Accounts->signout
     
-    For Windows 
+    For Windows   
         Inside github, Right side next to Sync->Settings symbol->options->log out
 
 ### 命令行相关
