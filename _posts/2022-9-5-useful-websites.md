@@ -40,7 +40,7 @@ tags:
     git commit -m “工作内容总结，自由填写” # commit可作“递交“解
     git remote add origin [url] # 在repo主界面点击绿色的“code”即可复制相应repo的url
     git branch -M main
-    git push -u origin main
+    git push -u origin main # 別push了，再push我都要寄了
     ```
 
 ### GitHub desktop相关
