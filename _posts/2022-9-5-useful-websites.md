@@ -2,7 +2,7 @@
 layout:     post
 title:      "网站建设可能会用到的资源与教程"
 subtitle:   " 在学了在学了"
-date:       2022-09-04 12:00:00
+date:       2022-09-05 12:00:00
 author:     "泉雲清"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -15,19 +15,19 @@ tags:
 ### SSH keys & GPG
 1. 一台电脑配置多个SSH keys
     <https://support.huaweicloud.com/codehub_faq/codehub_faq_0002.html>
-    https://www.jianshu.com/p/c30e1f787b92
-    https://juejin.cn/post/7117182814310629390
+    <https://www.jianshu.com/p/c30e1f787b92>
+    <https://juejin.cn/post/7117182814310629390>
 2. Mac下安装GPG
     ```bash
     brew install gpg
     ```
 3. macOS生成GPG keys
 
-    https://docs.github.com/cn/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+    <https://docs.github.com/cn/authentication/managing-commit-signature-verification/generating-a-new-gpg-key>
 3. macOS生成SSH keys
 
-    https://www.jianshu.com/p/63b82385c519
-    https://blog.csdn.net/wangjunling888/article/details/51115659
+    <https://www.jianshu.com/p/63b82385c519>
+    <https://blog.csdn.net/wangjunling888/article/details/51115659>
 
 ### git 相关
 1. git 修改远程仓库地址
@@ -57,19 +57,20 @@ tags:
 
 ### 命令行相关
 1. 我在用的是哪个shell
-    https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/
+    <https://www.moncefbelyamani.com/which-shell-am-i-using-how-can-i-switch/>
 2. tree命令
-    https://segmentfault.com/a/1190000009962072
+    <https://segmentfault.com/a/1190000009962072>
 
 
 ### Jekyll相关
 1. macOS安装Jekyll
-    https://zhuanlan.zhihu.com/p/350462079
+    <https://zhuanlan.zhihu.com/p/350462079>
 
 ## 会用到的网站
 1. kramdown语法
-    https://kramdown.gettalong.org/syntax.html#links-and-images
+    <https://kramdown.gettalong.org/syntax.html#links-and-images>
 2. Jekyll官网
-    中文： https://www.jekyll.com.cn
-    英文： https://jekyllrb.com
+    中文： <https://www.jekyll.com.cn>
+
+    英文： <https://jekyllrb.com>
 
