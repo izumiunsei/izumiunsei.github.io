@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: romanspillar@gmail.com
 description: "一个啥都不懂的Polymer Science博士生"
 keyword: "黄正, ZhengHuang98, Zheng Huang, Izumi Unsei, 泉雲清, 泉雲清的博客 , Izumi Unsei Blog, 博客, 个人网站, NMR, 语言学, 日语, 拉丁语, 哲学, 甲骨文, 设计"
-url: "https://github.com/izumiunsei/izumiunsei.github.io" # your host, for absolute URL
-baseurl: "/bolb/master" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://ius.shn.hk" # your host, for absolute URL
+baseurl:  # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
