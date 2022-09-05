@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: disqus_dYkx1i0ov1
+disqus_username: https-izumiunsei-github-io
 
 # Netease settings
 netease_comment: false
