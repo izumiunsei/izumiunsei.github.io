@@ -14,7 +14,7 @@ tags:
 ## 基础知识
 ### SSH keys & GPG
 1. 一台电脑配置多个SSH keys
-    https://support.huaweicloud.com/codehub_faq/codehub_faq_0002.html
+    <https://support.huaweicloud.com/codehub_faq/codehub_faq_0002.html>
     https://www.jianshu.com/p/c30e1f787b92
     https://juejin.cn/post/7117182814310629390
 2. Mac下安装GPG
@@ -22,8 +22,10 @@ tags:
     brew install gpg
     ```
 3. macOS生成GPG keys
+
     https://docs.github.com/cn/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
 3. macOS生成SSH keys
+
     https://www.jianshu.com/p/63b82385c519
     https://blog.csdn.net/wangjunling888/article/details/51115659
 
@@ -48,7 +50,7 @@ tags:
     快捷键：ctrl + ，
     不那么快的方法：
     For Mac
-        Top Left corner of the screen, next to Mac symbol->==Github->Preference->Accounts->signout==
+        Top Left corner of the screen, next to Mac symbol->`Github`->Preference->Accounts->signout
     
     For Windows 
         Inside github, Right side next to Sync->Settings symbol->options->log out

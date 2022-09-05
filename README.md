@@ -1,4 +1,4 @@
-[Izumiunsei Blog](https://izumiunsei.github.io)
+[Izumiunsei Blog](https://ius.shn.hk)
 ================================
 
 > 此博客模版为hux blog
