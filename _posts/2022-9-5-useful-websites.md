@@ -70,8 +70,7 @@ tags:
 1. kramdown语法
     <https://kramdown.gettalong.org/syntax.html#links-and-images>
 2. Jekyll官网  
-    中文： <https://www.jekyll.com.cn>
-
+    中文： <https://www.jekyll.com.cn>  
     英文： <https://jekyllrb.com>
 3.  GitHub markdown语法  
     <https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
