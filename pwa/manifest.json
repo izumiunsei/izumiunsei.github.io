@@ -1,14 +1,14 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Izumi Unsei Blog",
+  "short_name": "Ius Blog",
+  "description": "A polymer science PhD student, knowing nothing",
   "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
+    "src": "icons/330.png",
+    "sizes": "330x330",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
+    "src": "icons/1200.png",
+    "sizes": "1200x1200",
     "type": "image/png"
   }],
   "background_color": "#fff",
