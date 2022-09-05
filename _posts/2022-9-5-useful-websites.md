@@ -47,7 +47,7 @@ tags:
 
 ### GitHub desktop相关
 1. 如何登出  
-    快捷键：ctrl + ，  
+    快捷键：`ctrl` + `，`  
     不那么快的方法：  
     For Mac  
         Top Left corner of the screen, next to Mac symbol->`Github desktop`->`Preference`->Accounts->signout
@@ -73,4 +73,6 @@ tags:
     中文： <https://www.jekyll.com.cn>
 
     英文： <https://jekyllrb.com>
+3.  GitHub markdown语法  
+    <https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
