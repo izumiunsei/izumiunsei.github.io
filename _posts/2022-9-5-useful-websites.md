@@ -28,6 +28,13 @@ tags:
 
     <https://www.jianshu.com/p/63b82385c519>
     <https://blog.csdn.net/wangjunling888/article/details/51115659>
+4. Windows下生成SSH keys  
+    这个可以参考GitHub docs相应章节  
+
+生成，添加完了之后记得要用
+```zsh
+ssh -T git@github.com  # 检查与GitHub的连接
+```
 
 ### git 相关
 1. git 修改远程仓库地址
@@ -44,6 +51,9 @@ tags:
     git branch -M main
     git push -u origin main # 別push了，再push我都要寄了
     ```
+3. 添加了SSH keys依旧显示 Permission denied(publickey)  
+    这种事常发生在想添加多个ssh keys的情况，因为第一个ssh keys一般是默认的，而之后的ssh keys需要改名，
+    避免与之前的名字重合。而git（或者ssh？）似乎只识别特定名称的key，比如id_rsa，id_ed25519。如果起了如github之类的名字是认不出来的。还要注意ssh keys需要挪到.ssh目录下才能识别，因为生成key的位置是terminal当前的位置。
 
 ### GitHub desktop相关
 1. 如何登出  
@@ -76,3 +86,5 @@ tags:
     <https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 4. Markdown 学习  
     <https://xianbai.me/learn-md/index.html>
+5. git教程
+    <https://runoob.com/git/git-tutorial.html>
