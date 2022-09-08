@@ -19,20 +19,20 @@ tags:
 ## 1. 让Finder显示当前路径  
 快捷键：`option`+`command`+`p`  
 慢慢找：打开finder（开着窗口），点开左上角`view`，找到`Show Path Bar`，左键点击
-![](../img/in-post/post-show-path-bar.png)
+![](/img/in-post/post-show-path-bar.png)
 
 访达是第二时间让我觉得与Windows有差异的地方（第一个是安装应用，第一次看见一个图标，右边一个applications，然后啥指示没有，我直接黑人问号.jpg）
 
 ## 2. 显示桌面
 对于习惯Windows ctrl+D的我来说苹果显示桌面竟然不能隐藏所有窗口，留一点小尾巴在桌面上简直难以忍受  
 `command`+`F3`
-![](../img/in-post/post-show-desktop.png)
+![](/img/in-post/post-show-desktop.png)
 
 ## 3. 显示日期
 调整设置的时候才发现MBA竟然因为屏幕太小而不显示日期。（虽然底下的Calendar已经告诉你今天的日期了  
 `System Preference` -> `Dock & Menu Bar` -> 在左边栏找到 `Menu Bar Only` -> `Clock`  
 show date -> "always"
-![](../img/in-post/post-change-clock.png)
+![](/img/in-post/post-change-clock.png)
 
 ## 4. 截图
 截图这一点做得比Windows要好，不需要print screen粘贴大法。  
