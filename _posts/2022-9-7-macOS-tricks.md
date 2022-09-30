@@ -46,3 +46,14 @@ show date -> "always"
 4. 一键解决，自由选择：shift + command + `5`
 
 另外，键位可以在系统设置->键盘->快捷键->截屏里面改
+
+## 5.设定程序启动快捷键
+使用automator
+1. 点击 New document
+2. 点击 Quick actions 
+3. 搜索栏中输入 Launch application 并双击选中
+4. 在 Launch application 的选项中选择需要的应用
+5. command + s 保存，记得修改名字
+6. 在System Preference -> Keyboard -> shortcut 中选择 Services
+7. 在Genearl中可以找到刚才保存的文件名，点击添加快捷键
+
