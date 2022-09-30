@@ -11,7 +11,7 @@ tags:
     
 ---
 # 前言
-由于一个网站会具有属性，所以可能会出现在多重分类中。编程单列出来放在[另一个post](2022-9-5-useful-websites.md)里。
+由于一个网站会具有多种属性，所以可能会出现在多重分类中。编程单列出来放在[另一个post](/_posts/2022-9-5-useful-websites.md)里。
 latex网站在笔记里。
 # 学术
 ## 知识类
@@ -74,7 +74,7 @@ latex网站在笔记里。
 - 英语  
 [Accelerated Reader Bookfinder US - Collections](https://www.arbookfind.com/collections.aspx)  能找点符合当前水平的英文原版书
 - 拉丁语  
-[拉丁语学习小站 – 拉丁语和古罗马资源网站](http://latinedu.net/) 首推！
+[拉丁语学习小站 – 拉丁语和古罗马资源网站](http://latinedu.net/) 首推！  
 [LatinTutorial](https://www.latintutorial.com/)  
 [Hexameter](https://www.hexameter.co/)  
 [The Aeneid](https://www.aeneid.co/)  
@@ -94,7 +94,7 @@ latex网站在笔记里。
 [成人零基础学钢琴选择什么教材比较好？ - 知乎](https://www.zhihu.com/question/24557415)  
 ### 乐理
 
-- 
+
 ## 理学、工学
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 能拿来查点数学题？没怎么用过
 
@@ -131,11 +131,12 @@ latex网站在笔记里。
 ### 阅读  
 [书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站](https://book.zhishikoo.com/)  
 [资源帝电子书导航\_在这里发现更多好书...](http://shu.ziyuandi.cn/)  
-[Library Genesis](http://gen.lib.rus.ec/)  英文图书搜索
+[Library Genesis](http://gen.lib.rus.ec/)  英文图书搜索  
 
+### 其他  
 [秘塔检索](https://metaso.cn/#/?vc=ZH-VOL33C9AC7B)  不知道是啥，没用过
 
-[FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)  
+[FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)  词典交流
 [阿虚同学的储物间](https://axutongxue.com/)  别人家的网址集合  
 ## 软件下载
 ### Windows  
@@ -154,8 +155,6 @@ latex网站在笔记里。
 
 ## 教程
 
-
-### 教程
 [Analytics Academy](https://analytics.google.com/analytics/academy/)  
 
 # 娱乐休闲 
