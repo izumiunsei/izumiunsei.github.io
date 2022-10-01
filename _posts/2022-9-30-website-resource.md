@@ -8,12 +8,16 @@ header-mask: 0.3
 mathjax: true
 tags: 
     - 资源
+    - 网站
     
 ---
 # 前言
-由于一个网站会具有多种属性，所以可能会出现在多重分类中。网站编程相关的单列出来放在[另一个post](/2022/09/05/useful-websites/)里。
+副标题已经说得很清楚了，我是傻逼。经过不知道多少次重复造轮子的操作，我终于想起来我还能把收藏的网页进行整合。  
+由于一个网站可能具有多种属性，所以会出现在多重分类中，毕竟这个post的最终目的就是为了方便找到需要的网站，而不是单纯的分类。网站建设相关的在[之前的post](/2022/09/05/useful-websites/)里，编程语言相关的网站、资源[在这里](/2022/10/01/coding-language-website)
 latex网站在笔记里。
 ## 更新履歷
+2022.10.1 完成对chrome，edge的收藏夹整理（都不知道我什么时候整出来了大几百个网页，属实累人）  
+预计在本月完成留存的网页归档（或许有上千个网页了orz  
 
 # 学术
 ## 知识类
@@ -24,6 +28,7 @@ latex网站在笔记里。
 [积分变换（1）——傅里叶级数 - 知乎](https://zhuanlan.zhihu.com/p/108017728)  
 [积分变换（2）——傅里叶变换 - 知乎](https://zhuanlan.zhihu.com/p/108271985)  
 [傅里叶变换 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%82%85%E9%87%8C%E5%8F%B6%E5%8F%98%E6%8D%A2)
+[Stanford Engineering Everywhere | EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/Course/EE261)  傅里叶变换及其应用公开课  
 
 - 光学相关  
 [散度 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%BA%A6)  
@@ -44,11 +49,26 @@ latex网站在笔记里。
 [见证奇迹的时刻：如何从麦克斯韦方程组推出电磁波 - 知乎](https://zhuanlan.zhihu.com/p/81867668)  
 
 ### 在用着的
+- NMR相关
+
 
 ### 感觉会用到的  
 - 统计力学、统计热力学  
 - 数学  
+    - 概率论与数理统计  
+[数学基础（1）~ 概率论基础知识 ](https://www.cnblogs.com/fanling999/p/6702297.html)  数理统计在下一篇，都是好东西  
+
+    - 线性代数  
 [矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
+
+- Polymer
+[Rotating reference frame - Wikipedia](https://en.wikipedia.org/wiki/Rotating_reference_frame)  
+
+- 书单
+[GitHub - wenhan-wu/OpenCourseCatalog: Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)  
+[B站课程有哪些值得上的那些youtube都没有的 - 哔哩哔哩](https://www.bilibili.com/read/cv1569425)  
+[一份线上物理系本科层次的自学指南 - 知乎](https://zhuanlan.zhihu.com/p/61003725)  上面这些都挺老了，有机会再去找新的书单  
+
 
 
 
@@ -57,24 +77,36 @@ latex网站在笔记里。
 [SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集](http://tool.yovisun.com/scihub/)  
 [SciFinderⁿ Webinar - Hidden Polymers | CAS](https://www.cas.org/about/events/scifinder-n-webinar071520)  
 [文献互助平台 - 科研通(AbleSci.com)](https://www.ablesci.com/)  
+[Library Genesis](http://gen.lib.rus.ec/)  英文论文搜索？还没用过  
+[有哪些可以免费下载论文 文献的网站？ - 知乎](https://www.zhihu.com/question/312580429)  
+
 
 - 教材搜索  
-
+z library
 
 ## 事务类
 - 常用期刊网址  
 
 - 学校事务  
+[Homepage - Brightspace - The University of Akron](https://brightspace.uakron.edu/d2l/home)  
+[College of Polymer Science and Polymer Engineering : The University of Akron](https://www.uakron.edu/cpspe/)  老网址，还能跳转就先放着了  
+[University Libraries | Bierce Library | Home page : The University of Akron](https://www.uakron.edu/libraries/)  
 [Student Health Services: Home page | The University Akron, Ohio](https://www.uakron.edu/healthservices/index.dot)  
+组里的chemical inventory
 
 
 # 爱好
 
 ## 文学、艺术
 
-### 语言
+### 哲学  
+
+### 语言  
 - 英语  
-[Accelerated Reader Bookfinder US - Collections](https://www.arbookfind.com/collections.aspx)  能找点符合当前水平的英文原版书
+[Accelerated Reader Bookfinder US - Collections](https://www.arbookfind.com/collections.aspx)  能找点符合当前水平的英文原版书  
+[EnglishPod\_All : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/englishpod_all)  podcast，看起来很厉害的样子，但是还没听过
+[ThoughtCo.com is the World's Largest Education Resource](https://www.thoughtco.com/)  当作英语阅读材料好了
+
 - 拉丁语  
 [拉丁语学习小站 – 拉丁语和古罗马资源网站](http://latinedu.net/) 首推！  
 [LatinTutorial](https://www.latintutorial.com/)  
@@ -86,8 +118,14 @@ latex网站在笔记里。
 [Reading Material In Latin - Hiberna Caroli Raetici](http://hiberna-cr.wikidot.com/reading-material)  
 [Harry Thurston Peck, Harpers Dictionary of Classical Antiquities (1898), A](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0062&redirect=true)  在线词典
 
-### 语言学
+### 语言学  
+- 数据库/语料库  
 [新华日报数据库-近代文献数据库](http://jindaiwenxian.com/FLib/indexByYear/lid/1938/lib/1)
+
+
+[文化庁 | 国語施策・日本語教育 | 国語施策情報 | 国語施策沿革資料](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/sisaku/enkaku/index.html) 关于假名遣的资料  
+[漢語多功能字庫 Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  
+[粵語審音配詞字庫](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)  
 
 ### 绘画
 
@@ -99,6 +137,9 @@ latex网站在笔记里。
 
 ## 理学、工学
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 能拿来查点数学题？没怎么用过
+
+[麻省理工学院公开课：微积分重点\_课程简介\_网易公开课](http://open.163.com/movie/2010/1/H/M/M6TAD6EGJ_M6TADTFHM.html)  
+
 
 [中国の天文学](http://asait.world.coocan.jp/kuiper_belt/eclipse/chinese_astronomy.htm)
 
@@ -120,31 +161,46 @@ latex网站在笔记里。
 [动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  
 [【下载站】TLMC东方同人音乐完全索引下载(3.02TB)\[永续更新\] - 喵玉资源馆 - 喵玉殿论坛 · 喵玉汉化组](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=76972)  
 
+### 其他
+[一直中二一直爽！「吹响吧！上低音号」京蜜半日圣地巡礼嗨翻纪实 - 哔哩哔哩](https://www.bilibili.com/read/cv4817693/)  有一天我也要去一趟！
+[动画笨蛋 - 京吹](https://kyoani.cn/anibaka?traned=1&sort=)  京阿尼员工的碎碎念翻译合辑  
 
-# 工具，教程
+## 体育、运动
+
+# 工具，教程/评测
 
 ## 资源搜索，下载
 [SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集](http://tool.yovisun.com/scihub/)  
+[telegram中文搜索](https://www.sssoou.com/)  
+[Library Genesis](http://gen.lib.rus.ec/)  英文论文搜索？还没用过  
 
 ### 视听
 [动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  
 [ACG.RIP](https://acg.rip/)  番剧下载  
 [首页 - 人人影视下载分享站](https://yyets.dmesg.app/home)  
+[字幕库(zimuku) -- 字幕下载网站](http://zimuku.org/)  
+[天翼小站](https://yun.hei521.cn/)  不止影视资源就是了  
+
+
 ### 阅读  
 [书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站](https://book.zhishikoo.com/)  
 [资源帝电子书导航\_在这里发现更多好书...](http://shu.ziyuandi.cn/)  
-[Library Genesis](http://gen.lib.rus.ec/)  英文图书搜索  
+
 
 ### 其他  
 [秘塔检索](https://metaso.cn/#/?vc=ZH-VOL33C9AC7B)  不知道是啥，没用过
-
+[首页 - 孟坤工具箱网页版](http://tool.mkblog.cn/)  各种有用没用的小工具  
 [FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)  词典交流
 [阿虚同学的储物间](https://axutongxue.com/)  别人家的网址集合  
+
 ## 软件下载
 ### Windows  
+[首页\_懒得勤快的博客\_互联网分享精神](https://ldqk.org/)  首推！  
 [Авторские репаки от ELCHUPACABRA - REPACK скачать](https://lrepacks.net/) Windows软件下载  
 [乐软博客](https://www.isharepc.com/) Windows软件推荐+下载  
 [微当下载](https://www.weidown.com/)  没用过，先挂着  
+[423Down](https://www.423down.com/) 没用过+1  
+
 
 ### Mac OS
 [精品MAC应用分享](https://xclient.info/)  
@@ -155,12 +211,19 @@ latex网站在笔记里。
 [Google Translate](https://translate.google.com/)  
 
 ## 转换
-[HTML-to-Markdown-Converter](https://codebeautify.org/html-to-markdown)
+[HTML-to-Markdown-Converter](https://codebeautify.org/html-to-markdown)  
+
 
 
 ## 教程
 
 [Analytics Academy](https://analytics.google.com/analytics/academy/)  
+
+## 评测  
+[Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
+评测电视，显示屏等  
+[【进阶】当评价一款产品时，我们关注的是什么？（一）我们需要什么样的显示器（屏幕） - 知乎](https://zhuanlan.zhihu.com/p/22411193)  
+[查询显示器参数 显示器测试以及评价的网页 | Set☆Fire (・へ・) Community 集火社区](https://www.set-fire.com/topic/465/%E6%9F%A5%E8%AF%A2%E6%98%BE%E7%A4%BA%E5%99%A8%E5%8F%82%E6%95%B0-%E6%98%BE%E7%A4%BA%E5%99%A8%E6%B5%8B%E8%AF%95%E4%BB%A5%E5%8F%8A%E8%AF%84%E4%BB%B7%E7%9A%84%E7%BD%91%E9%A1%B5)  
 
 # 娱乐休闲 
 
@@ -174,9 +237,7 @@ latex网站在笔记里。
 ### 游戏相关
 [Steam Status · Is Steam Down?](https://steamstat.us/) Steam寄了没有  
 
-## 评测  
-[Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
-评测电视，显示屏等  
+
 
 
 ## 比价，价格追踪
@@ -193,6 +254,8 @@ latex网站在笔记里。
 [初之图库](https://img.himiku.com/)  
 [Awesome Wallpapers - wallhaven.cc](https://wallhaven.cc/)  
 
-[科学普及----中国科学院](http://www.cas.cn/kx/)
+
+
+[科学普及----中国科学院](http://www.cas.cn/kx/)  
 [分享一些非常好用的『政府网站』 - 知乎](https://zhuanlan.zhihu.com/p/57928758)  
 
