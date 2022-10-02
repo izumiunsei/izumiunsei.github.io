@@ -57,3 +57,5 @@ show date -> "always"
 6. 在System Preference -> Keyboard -> shortcut 中选择 Services
 7. 在Genearl中可以找到刚才保存的文件名，点击添加快捷键
 
+## 6.xxx.app 已损坏，无法打开，你应该将它移到废纸篓/打不开 xxx，因为它来自身份不明的开发者解决方法  
+<https://macwk.com/article/macos-file-damage>
