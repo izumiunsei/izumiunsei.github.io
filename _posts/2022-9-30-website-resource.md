@@ -13,11 +13,12 @@ tags:
 ---
 # 前言
 副标题已经说得很清楚了，我是傻逼。经过不知道多少次重复造轮子的操作，我终于想起来我还能把收藏的网页进行整合。  
-由于一个网站可能具有多种属性，所以会出现在多重分类中，毕竟这个post的最终目的就是为了方便找到需要的网站，而不是单纯的分类。网站建设相关的在[之前的post](/2022/09/05/useful-websites/)里，编程语言相关的网站、资源[在这里](/2022/10/01/coding-language-website)
-latex网站在笔记里。
+由于一个网站可能具有多种属性，所以会出现在多重分类中，毕竟这个post的最终目的就是为了方便找到需要的网站，而不是单纯的分类。网站建设相关的在[之前的post](/2022/09/05/useful-websites/)里（现在还很乱，后续会重新编辑）。编程语言相关的网站、资源[在这里](/2022/10/01/coding-language-website)。
+latex网站在笔记里。后续也会搬上来
 ## 更新履歷
-2022.10.1 完成对chrome，edge的收藏夹整理（都不知道我什么时候整出来了大几百个网页，属实累人）  
-预计在本月完成留存的网页归档（或许有上千个网页了orz  
+**2022.10.1** 完成对老帐号chrome，edge的收藏夹整理（都不知道我什么时候整出来了大几百个网页，属实累人）  
+正在进行新账号网页存档的归类，预计需要一个星期……（有相当一部分存档优先级不高，就导出到HTML文件再转markdown，等到要用的时候再找）
+预计在本月完成留存的网页归档，包括edge（绝大部分,因为chrome的都不知道丢哪去了）以及safari（或许有上千个网页了orz  
 
 # 学术
 ## 知识类
@@ -54,11 +55,20 @@ latex网站在笔记里。
 
 ### 感觉会用到的  
 - 统计力学、统计热力学  
-- 数学  
-    - 概率论与数理统计  
-[数学基础（1）~ 概率论基础知识 ](https://www.cnblogs.com/fanling999/p/6702297.html)  数理统计在下一篇，都是好东西  
+[七天入门统计力学-第1天 基础知识及基本概念 - 羽夜 - 博客园](https://www.cnblogs.com/fnight/p/5222211.html)  虽然只更新了两天就无了，但是可以一窥整体情况。 btw有机会 会把他现在的网站也加到集合里。  
 
-    - 线性代数  
+
+
+- 数学  
+  - 基础数学  
+  [对数与指数函数的求导 - TMS\_LI的专栏 - CSDN博客](https://blog.csdn.net/tms_li/article/details/78641515)  
+
+  - 概率论与数理统计  
+[数学基础（1）~ 概率论基础知识 ](https://www.cnblogs.com/fanling999/p/6702297.html)  数理统计在下一篇，都是好东西  
+[正态分布的前世今生 (上) | 统计之都](https://cosx.org/2013/01/story-of-normal-distribution-1/)  
+
+
+  - 线性代数  
 [矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
 
 - Polymer
@@ -79,11 +89,14 @@ latex网站在笔记里。
 [文献互助平台 - 科研通(AbleSci.com)](https://www.ablesci.com/)  
 [Library Genesis](http://gen.lib.rus.ec/)  英文论文搜索？还没用过  
 [有哪些可以免费下载论文 文献的网站？ - 知乎](https://www.zhihu.com/question/312580429)  
-
+[文献检索 - Web of Science 核心合集](https://www.webofscience.com/wos/woscc/basic-search)  
+[谷歌学术镜像\_Google学术搜索导航@思谋学术](https://ac.scmor.com/)  
+[Open Access Library (OALib)](https://www.oalib.com/)  
+[Google Scholar](https://scholar.google.com/)  
 
 - 教材搜索  
-z library
-
+[z-library](z-lib.org) 永远的神，这里搜不到，学校也没有的话很可能就不太好找了  
+[University Libraries | Bierce Library | Home page : The University of Akron](https://www.uakron.edu/libraries/)  偶尔看看学校的资源也有惊喜  
 ## 事务类
 - 常用期刊网址  
 
@@ -126,6 +139,7 @@ z library
 [文化庁 | 国語施策・日本語教育 | 国語施策情報 | 国語施策沿革資料](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/sisaku/enkaku/index.html) 关于假名遣的资料  
 [漢語多功能字庫 Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)  
 [粵語審音配詞字庫](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/)  
+[韻典網](https://ytenx.org/)  
 
 ### 绘画
 
@@ -139,8 +153,9 @@ z library
 [Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/) 能拿来查点数学题？没怎么用过
 
 [麻省理工学院公开课：微积分重点\_课程简介\_网易公开课](http://open.163.com/movie/2010/1/H/M/M6TAD6EGJ_M6TADTFHM.html)  
+[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)  
 
-
+[牧夫天文论坛（中国最早的天文论坛，致力于天文和望远镜的科普交流平台）!](http://bbs.imufu.cn/forum.php)  
 [中国の天文学](http://asait.world.coocan.jp/kuiper_belt/eclipse/chinese_astronomy.htm)
 
 ## 整点二次元
@@ -149,16 +164,21 @@ z library
 [Bangumi 番组计划](https://bangumi.tv/)  番剧评价  
 [ACG.RIP](https://acg.rip/)  番剧下载  
 [漫猫动漫BT下载](http://www.comicat.org/)  
+其实自己用的最多的还是**动漫花园**和**弹弹play**，由于太熟悉了已经懒得放进整合里了w，要是真有人看到了自己谷歌吧2333   
 
-### 漫画（C）
+### 漫画（C）  
+经典的漫画网站还是要属[动漫之家](http://manhua.dmzj.com/)，虽然现在已经被叔叔买得差不多了  
+海贼网站常用的就是[拷贝漫画](https://copymanga.site/)，偶尔也会到[轻之国度漫画版](https://www.lightnovel.us/category/33/0?type=1)里逛逛。  
 
 ### 游戏（G）
 [如何入坑 Galgame? - 知乎](https://www.zhihu.com/question/335248696/answer/787389649)  
 
 ### 轻小说（N）
+最常用的还是[轻之国度](https://www.lightnovel.us/)，app食用体验尚可，下载下来的电子书配合Lithium使用更佳  
+手机上还有**轻小说文库**可以使用，体验差强人意。  
 
 ### 音乐  
-[动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  
+[动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  我这种没什么太大要求和目的的基本够用，要想第一时间拿到的话可以去天使论坛，花点钱随便下。
 [【下载站】TLMC东方同人音乐完全索引下载(3.02TB)\[永续更新\] - 喵玉资源馆 - 喵玉殿论坛 · 喵玉汉化组](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=76972)  
 
 ### 其他
