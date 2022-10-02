@@ -71,10 +71,10 @@ latex网站在笔记里。后续也会搬上来
   - 线性代数  
 [矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
 
-- Polymer
+- Polymer  
 [Rotating reference frame - Wikipedia](https://en.wikipedia.org/wiki/Rotating_reference_frame)  
 
-- 书单
+- 书单  
 [GitHub - wenhan-wu/OpenCourseCatalog: Bilibili 公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog)  
 [B站课程有哪些值得上的那些youtube都没有的 - 哔哩哔哩](https://www.bilibili.com/read/cv1569425)  
 [一份线上物理系本科层次的自学指南 - 知乎](https://zhuanlan.zhihu.com/p/61003725)  上面这些都挺老了，有机会再去找新的书单  
@@ -117,7 +117,7 @@ latex网站在笔记里。后续也会搬上来
 ### 语言  
 - 英语  
 [Accelerated Reader Bookfinder US - Collections](https://www.arbookfind.com/collections.aspx)  能找点符合当前水平的英文原版书  
-[EnglishPod\_All : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/englishpod_all)  podcast，看起来很厉害的样子，但是还没听过
+[EnglishPod\_All : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/englishpod_all)  podcast，看起来很厉害的样子，但是还没听过  
 [ThoughtCo.com is the World's Largest Education Resource](https://www.thoughtco.com/)  当作英语阅读材料好了
 
 - 拉丁语  
@@ -165,20 +165,18 @@ latex网站在笔记里。后续也会搬上来
 [ACG.RIP](https://acg.rip/)  番剧下载  
 [漫猫动漫BT下载](http://www.comicat.org/)  
 其实自己用的最多的还是**动漫花园**和**弹弹play**，由于太熟悉了已经懒得放进整合里了w，要是真有人看到了自己谷歌吧2333   
-
 ### 漫画（C）  
 经典的漫画网站还是要属[动漫之家](http://manhua.dmzj.com/)，虽然现在已经被叔叔买得差不多了  
 海贼网站常用的就是[拷贝漫画](https://copymanga.site/)，偶尔也会到[轻之国度漫画版](https://www.lightnovel.us/category/33/0?type=1)里逛逛。  
-
 ### 游戏（G）
 [如何入坑 Galgame? - 知乎](https://www.zhihu.com/question/335248696/answer/787389649)  
-
+别看了快去steam支持国产gal吧，便宜大碗  
 ### 轻小说（N）
 最常用的还是[轻之国度](https://www.lightnovel.us/)，app食用体验尚可，下载下来的电子书配合Lithium使用更佳  
 手机上还有**轻小说文库**可以使用，体验差强人意。  
 
 ### 音乐  
-[动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  我这种没什么太大要求和目的的基本够用，要想第一时间拿到的话可以去天使论坛，花点钱随便下。
+[动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  我这种没什么太大要求和目的的基本够用，要想第一时间拿到的话可以去天使论坛，花点钱随便下。  
 [【下载站】TLMC东方同人音乐完全索引下载(3.02TB)\[永续更新\] - 喵玉资源馆 - 喵玉殿论坛 · 喵玉汉化组](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=76972)  
 
 ### 其他
@@ -193,24 +191,19 @@ latex网站在笔记里。后续也会搬上来
 [SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集](http://tool.yovisun.com/scihub/)  
 [telegram中文搜索](https://www.sssoou.com/)  
 [Library Genesis](http://gen.lib.rus.ec/)  英文论文搜索？还没用过  
-
 ### 视听
 [动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  
 [ACG.RIP](https://acg.rip/)  番剧下载  
 [首页 - 人人影视下载分享站](https://yyets.dmesg.app/home)  
 [字幕库(zimuku) -- 字幕下载网站](http://zimuku.org/)  
 [天翼小站](https://yun.hei521.cn/)  不止影视资源就是了  
-
-
 ### 阅读  
 [书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站](https://book.zhishikoo.com/)  
 [资源帝电子书导航\_在这里发现更多好书...](http://shu.ziyuandi.cn/)  
-
-
 ### 其他  
-[秘塔检索](https://metaso.cn/#/?vc=ZH-VOL33C9AC7B)  不知道是啥，没用过
+[秘塔检索](https://metaso.cn/#/?vc=ZH-VOL33C9AC7B)  不知道是啥，没用过  
 [首页 - 孟坤工具箱网页版](http://tool.mkblog.cn/)  各种有用没用的小工具  
-[FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)  词典交流
+[FreeMdict Forum - 自由 无门槛 免费](https://forum.freemdict.com/)  词典交流  
 [阿虚同学的储物间](https://axutongxue.com/)  别人家的网址集合  
 
 ## 软件下载
@@ -223,13 +216,13 @@ latex网站在笔记里。后续也会搬上来
 
 
 ### Mac OS
-[精品MAC应用分享](https://xclient.info/)  
+[精品MAC应用分享](https://xclient.info/)  好！ 
 [MacWk - 精品mac软件下载](https://macwk.com/)  中文站做得最好的（之一）  
-[Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)  
+[Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)  国外的网站，对我来说还更快些  
 
 ## 翻译
 [Google Translate](https://translate.google.com/)  
-
+说实话翻译文献的话还是得[copytranslator](https://github.com/CopyTranslator/CopyTranslator)  
 ## 转换
 [HTML-to-Markdown-Converter](https://codebeautify.org/html-to-markdown)  
 
