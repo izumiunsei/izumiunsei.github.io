@@ -50,7 +50,59 @@ latex网站在笔记里。后续也会搬上来
 [见证奇迹的时刻：如何从麦克斯韦方程组推出电磁波 - 知乎](https://zhuanlan.zhihu.com/p/81867668)  
 
 ### 在用着的
+- Polymer General
+
+[Plastics Technology](https://polymerdatabase.com/main.html)  
+
+
 - NMR相关
+[Lectures (colorado.edu)](https://physicscourses.colorado.edu/phys5250/phys5250_fa19/lecture/)  
+
+[Bloch equations - Wikipedia](https://en.wikipedia.org/wiki/Bloch_equations)  
+[Larmor precession - Wikipedia](https://en.wikipedia.org/wiki/Larmor_precession)  
+[Precession - Wikipedia](https://en.wikipedia.org/wiki/Precession)  
+[Euler angles - Wikipedia](https://en.wikipedia.org/wiki/Euler_angles)  
+[Maxwell–Bloch equations - Wikipedia](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Bloch_equations)  
+[Magnetic resonance (quantum mechanics) - Wikipedia](https://en.wikipedia.org/wiki/Magnetic_resonance_(quantum_mechanics))  
+[Spin quantum number - Wikipedia](https://en.wikipedia.org/wiki/Spin_quantum_number)  
+[Azimuthal quantum number - Wikipedia](https://en.wikipedia.org/wiki/Azimuthal_quantum_number)  
+[Spin echo - Wikipedia](https://en.wikipedia.org/wiki/Spin_echo)   
+[自旋迴訊 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/%E8%87%AA%E6%97%8B%E8%BF%B4%E8%A8%8A)  
+
+[Nuclear Induction (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.70.460)  
+[Spin Echoes (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.80.580)    
+[Effects of Rotating Magnetic Fields on Free-Induction Decay Shapes (aps.org)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.11.258)  
+[Effects of Perturbing Radiofrequency Fields on Nuclear Spin Coupling (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.97.1261)  
+[Nuclear-Magnetic-Resonance Line Narrowing by a Rotating rf Field (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.140.A1261)  
+[Effects of Diffusion on Free Precession in Nuclear Magnetic Resonance Experiments (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.94.630)   
+[Spin-locking in one pulse NMR experiment - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0926204097001082#BIB1)  
+[Total suppression of sidebands in CPMAS C-13 NMR - ScienceDirect](https://www.sciencedirect.com/science/article/pii/0022236482901998)  
+[Centerband-Only Detection of Exchange:  Efficient Analysis of Dynamics in Solids by NMR | Journal of the American Chemical Society (acs.org)](https://pubs.acs.org/doi/10.1021/ja992022v)  
+[Detection of Weak Heteronuclear Dipolar Coupling by Rotational-Echo Double-Resonance Nuclear Magnetic Resonance - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780120255139500094)   
+[theory_of_chemical_exchange_in_zero_field_nmr_two-site_flips.pdf (berkeley.edu)](https://pines.berkeley.edu/sites/default/files/publications/theory_of_chemical_exchange_in_zero_field_nmr_two-site_flips.pdf#:~:text=Two-site%20exchange%20forms%20a%20good%20model%20for%20illus%C2%AD,proteins%3B%20chain%20motions%20in%20polymers%20and%20sol%C2%AD%20ids.)  
+
+
+
+
+[spin_rha.dvi (princeton.edu)](https://www.princeton.edu/~romalis/PHYS312/Spin_echo.pdf)  
+
+[Larmor frequency - Questions and Answers ​in MRI (mriquestions.com)](https://www.mriquestions.com/who-was-larmor.html)  
+[larmor_paper_540013.pdf (mriquestions.com)](https://www.mriquestions.com/uploads/3/4/5/7/34572113/larmor_paper_540013.pdf)  
+[quantum_states_and_precession.pdf (mriquestions.com)](https://www.mriquestions.com/uploads/3/4/5/7/34572113/quantum_states_and_precession.pdf)  
+[2340852 1..9999 (mriquestions.com)](https://www.mriquestions.com/uploads/3/4/5/7/34572113/larmor_history.pdf)  
+
+[magmoment.pdf (ucsd.edu)](https://courses.physics.ucsd.edu/2016/Spring/physics4e/magmoment.pdf)  
+
+
+[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781118541838.ch2)  
+[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118541838.ch2)  
+
+
+[Computational Design of NMR Pulse Sequences - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780124095472121055)   
+[Fourier Transformation and Sampling Theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244001540)  
+[High Resolution Solid State NMR, 13C - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002831)  
+[High Resolution Solid State NMR, 1H, 19F - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002843)  
+
 
 
 ### 感觉会用到的  
@@ -93,6 +145,8 @@ latex网站在笔记里。后续也会搬上来
 [谷歌学术镜像\_Google学术搜索导航@思谋学术](https://ac.scmor.com/)  
 [Open Access Library (OALib)](https://www.oalib.com/)  
 [Google Scholar](https://scholar.google.com/)  
+[iData-知识检索 (cn-ki.net)](https://www.cn-ki.net/)  
+[中文DOI (chinadoi.cn)](http://www.chinadoi.cn/)  似乎不太能连上的样子  
 
 - 教材搜索  
 [z-library](z-lib.org) 永远的神，这里搜不到，学校也没有的话很可能就不太好找了  
@@ -142,6 +196,8 @@ latex网站在笔记里。后续也会搬上来
 [韻典網](https://ytenx.org/)  
 
 ### 绘画
+[調色盤、藝術家的色彩配置 | Adobe Color](https://color.adobe.com/zh/explore)
+
 
 ### 器乐
 [【整理】从入门到高级的钢琴教材](https://www.douban.com/group/topic/58248310/)  
@@ -197,6 +253,7 @@ latex网站在笔记里。后续也会搬上来
 [首页 - 人人影视下载分享站](https://yyets.dmesg.app/home)  
 [字幕库(zimuku) -- 字幕下载网站](http://zimuku.org/)  
 [天翼小站](https://yun.hei521.cn/)  不止影视资源就是了  
+[FLVCD - 硕鼠官网|在线视频下载](https://www.flvcd.com/index.htm)  
 ### 阅读  
 [书籍知识库 - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站](https://book.zhishikoo.com/)  
 [资源帝电子书导航\_在这里发现更多好书...](http://shu.ziyuandi.cn/)  
@@ -219,6 +276,9 @@ latex网站在笔记里。后续也会搬上来
 [精品MAC应用分享](https://xclient.info/)  好！ 
 [MacWk - 精品mac软件下载](https://macwk.com/)  中文站做得最好的（之一）  
 [Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)  国外的网站，对我来说还更快些  
+[Mac Torrents | Torrent Download Apple, Mac OSX Apps & Games Download](https://mactorrents.io/)  
+
+
 
 ## 翻译
 [Google Translate](https://translate.google.com/)  
@@ -229,6 +289,7 @@ latex网站在笔记里。后续也会搬上来
 
 
 ## 教程
+[欢迎使用 Audition 用户指南](https://helpx.adobe.com/cn/audition/user-guide.html)  
 
 [Analytics Academy](https://analytics.google.com/analytics/academy/)  
 
@@ -272,3 +333,5 @@ latex网站在笔记里。后续也会搬上来
 [科学普及----中国科学院](http://www.cas.cn/kx/)  
 [分享一些非常好用的『政府网站』 - 知乎](https://zhuanlan.zhihu.com/p/57928758)  
 
+[2022 中国海关关税税率速查表](https://gonglue.us/china-tariff)
+[Stack Exchange](https://stackexchange.com/sites)
