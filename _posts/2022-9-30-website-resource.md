@@ -19,6 +19,8 @@ latex网站在笔记里。后续也会搬上来
 **2022.10.1** 完成对老帐号chrome，edge的收藏夹整理（都不知道我什么时候整出来了大几百个网页，属实累人）  
 正在进行新账号网页存档的归类，预计需要一个星期……（有相当一部分存档优先级不高，就导出到HTML文件再转markdown，等到要用的时候再找）
 预计在本月完成留存的网页归档，包括edge（绝大部分,因为chrome的都不知道丢哪去了）以及safari（或许有上千个网页了orz  
+**2022.10.12** 对于Windows上的页面清理了能有八成，但还想起来iPad和Mac上还有一些网站，头疼……  
+**2022.10.25** 整理的过程中神必消失的网页还有不断积累的新网页orz 已经开摆了，能整多少是多少了
 
 # 学术
 ## 知识类
@@ -51,13 +53,18 @@ latex网站在笔记里。后续也会搬上来
 
 ### 在用着的
 - Polymer General
-
+[R-S构型标记法该怎样去理解？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/321849360)  
 [Plastics Technology](https://polymerdatabase.com/main.html)  
 
 
 - NMR相关
+**量子力学相关的**  
 [Lectures (colorado.edu)](https://physicscourses.colorado.edu/phys5250/phys5250_fa19/lecture/)  
+[物理学笔记 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1238830411763482624)  
+[理论物理简明教程与思考 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1098905938089656320)  
+[David J. Griffiths - Physics - Reed College](https://www.reed.edu/physics/faculty/griffiths/)  
 
+**NMR理论相关**  
 [Bloch equations - Wikipedia](https://en.wikipedia.org/wiki/Bloch_equations)  
 [Larmor precession - Wikipedia](https://en.wikipedia.org/wiki/Larmor_precession)  
 [Precession - Wikipedia](https://en.wikipedia.org/wiki/Precession)  
@@ -69,6 +76,7 @@ latex网站在笔记里。后续也会搬上来
 [Spin echo - Wikipedia](https://en.wikipedia.org/wiki/Spin_echo)   
 [自旋迴訊 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/%E8%87%AA%E6%97%8B%E8%BF%B4%E8%A8%8A)  
 
+**经典论文**  
 [Nuclear Induction (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.70.460)  
 [Spin Echoes (aps.org)](https://journals.aps.org/pr/pdf/10.1103/PhysRev.80.580)    
 [Effects of Rotating Magnetic Fields on Free-Induction Decay Shapes (aps.org)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.11.258)  
@@ -82,8 +90,27 @@ latex网站在笔记里。后续也会搬上来
 [theory_of_chemical_exchange_in_zero_field_nmr_two-site_flips.pdf (berkeley.edu)](https://pines.berkeley.edu/sites/default/files/publications/theory_of_chemical_exchange_in_zero_field_nmr_two-site_flips.pdf#:~:text=Two-site%20exchange%20forms%20a%20good%20model%20for%20illus%C2%AD,proteins%3B%20chain%20motions%20in%20polymers%20and%20sol%C2%AD%20ids.)  
 
 
+**结晶，聚合物结晶**  
+[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781118541838.ch2)  
+[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118541838.ch2)  
+
+**计算，模拟，以及其他**  
+[Computational Design of NMR Pulse Sequences - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780124095472121055)   
+[Fourier Transformation and Sampling Theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244001540)  
+[High Resolution Solid State NMR, 13C - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002831)  
+[High Resolution Solid State NMR, 1H, 19F - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002843)  
+[什么是立体角 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/445383200)  
+[球谐函数是什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/26405495)  
+
+[计算机模拟：生化环材研究生的自我救赎之道 - 知乎](https://zhuanlan.zhihu.com/p/447289459)  
+[Exercises and Solutions - Computing Skills for Biologists](https://computingskillsforbiologists.com/downloads/exercises/)
 
 
+**教材**
+[Chapter 1 - NMR Methods for Characterization of Synthetic and Natural Polymers (RSC Publishing)](https://pubs.rsc.org/en/content/chapter/9781788016483-00001/978-1-78801-400-7/unauth)  
+
+
+**其他**
 [spin_rha.dvi (princeton.edu)](https://www.princeton.edu/~romalis/PHYS312/Spin_echo.pdf)  
 
 [Larmor frequency - Questions and Answers ​in MRI (mriquestions.com)](https://www.mriquestions.com/who-was-larmor.html)  
@@ -92,17 +119,6 @@ latex网站在笔记里。后续也会搬上来
 [2340852 1..9999 (mriquestions.com)](https://www.mriquestions.com/uploads/3/4/5/7/34572113/larmor_history.pdf)  
 
 [magmoment.pdf (ucsd.edu)](https://courses.physics.ucsd.edu/2016/Spring/physics4e/magmoment.pdf)  
-
-
-[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/9781118541838.ch2)  
-[Crystal Structures of Polymers - Handbook of Polymer Crystallization - Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118541838.ch2)  
-
-
-[Computational Design of NMR Pulse Sequences - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780124095472121055)   
-[Fourier Transformation and Sampling Theory - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244001540)  
-[High Resolution Solid State NMR, 13C - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002831)  
-[High Resolution Solid State NMR, 1H, 19F - ScienceDirect](https://www.sciencedirect.com/science/article/pii/B9780128032244002843)  
-
 
 
 ### 感觉会用到的  
@@ -116,12 +132,15 @@ latex网站在笔记里。后续也会搬上来
   [对数与指数函数的求导 - TMS\_LI的专栏 - CSDN博客](https://blog.csdn.net/tms_li/article/details/78641515)  
 
   - 概率论与数理统计  
-[数学基础（1）~ 概率论基础知识 ](https://www.cnblogs.com/fanling999/p/6702297.html)  数理统计在下一篇，都是好东西  
-[正态分布的前世今生 (上) | 统计之都](https://cosx.org/2013/01/story-of-normal-distribution-1/)  
+  [数学基础（1）~ 概率论基础知识 ](https://www.cnblogs.com/fanling999/p/6702297.html)  数理统计在下一篇，都是好东西  
+  [正态分布的前世今生 (上) | 统计之都](https://cosx.org/2013/01/story-of-normal-distribution-1/)  
 
 
   - 线性代数  
-[矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
+  [矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
+
+  - 复分析、数学物理方法
+  [复数的实矩阵表示 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/160270375)  
 
 - Polymer  
 [Rotating reference frame - Wikipedia](https://en.wikipedia.org/wiki/Rotating_reference_frame)  
@@ -151,6 +170,7 @@ latex网站在笔记里。后续也会搬上来
 - 教材搜索  
 [z-library](z-lib.org) 永远的神，这里搜不到，学校也没有的话很可能就不太好找了  
 [University Libraries | Bierce Library | Home page : The University of Akron](https://www.uakron.edu/libraries/)  偶尔看看学校的资源也有惊喜  
+
 ## 事务类
 - 常用期刊网址  
 
@@ -159,7 +179,9 @@ latex网站在笔记里。后续也会搬上来
 [College of Polymer Science and Polymer Engineering : The University of Akron](https://www.uakron.edu/cpspe/)  老网址，还能跳转就先放着了  
 [University Libraries | Bierce Library | Home page : The University of Akron](https://www.uakron.edu/libraries/)  
 [Student Health Services: Home page | The University Akron, Ohio](https://www.uakron.edu/healthservices/index.dot)  
-组里的chemical inventory
+组里的chemical inventory  
+[UAkron - FOM - User Home](https://uafom.uakron.edu/fom/userhome)  
+[Remote desktop](https://remotedesktop.google.com/u/1/access)  
 
 
 # 爱好
@@ -247,6 +269,8 @@ latex网站在笔记里。后续也会搬上来
 [SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集](http://tool.yovisun.com/scihub/)  
 [telegram中文搜索](https://www.sssoou.com/)  
 [Library Genesis](http://gen.lib.rus.ec/)  英文论文搜索？还没用过  
+[城通网盘解析器 (qinlili.bid)](https://ctfile.qinlili.bid/button)  
+
 ### 视听
 [动漫无损音乐下载资讯站\_ACG漫音社\_专注分享二次元高品质音乐~](http://www.acgjc.com/)  
 [ACG.RIP](https://acg.rip/)  番剧下载  
@@ -273,8 +297,8 @@ latex网站在笔记里。后续也会搬上来
 
 
 ### Mac OS
-[精品MAC应用分享](https://xclient.info/)  好！ 
-[MacWk - 精品mac软件下载](https://macwk.com/)  中文站做得最好的（之一）  
+[精品MAC应用分享](https://xclient.info/)  好！
+[MacWk - 精品mac软件下载](https://macwk.com/)  中文站做得最好的（之一） （22.10.26注：关站了 （悲） 
 [Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)  国外的网站，对我来说还更快些  
 [Mac Torrents | Torrent Download Apple, Mac OSX Apps & Games Download](https://mactorrents.io/)  
 
@@ -290,8 +314,13 @@ latex网站在笔记里。后续也会搬上来
 
 ## 教程
 [欢迎使用 Audition 用户指南](https://helpx.adobe.com/cn/audition/user-guide.html)  
+[Obsidian教程一 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/492198616)  
 
 [Analytics Academy](https://analytics.google.com/analytics/academy/)  
+
+[减少录音的音频噪声 | Adobe](https://www.adobe.com/cn/products/audition/noise-reduction.html)  
+[应用降噪技术和恢复效果](https://helpx.adobe.com/cn/audition/using/noise-reduction-restoration-effects.html)  
+[Audition 教程 | 了解如何使用 Adobe Audition](https://helpx.adobe.com/cn/audition/tutorials.html)  
 
 ## 评测  
 [Reviews and Ratings - RTINGS.com](https://www.rtings.com/)
@@ -335,3 +364,6 @@ latex网站在笔记里。后续也会搬上来
 
 [2022 中国海关关税税率速查表](https://gonglue.us/china-tariff)
 [Stack Exchange](https://stackexchange.com/sites)
+
+### 打字练习
+[双拼练习 @ BlueSky](https://api.ihint.me/shuang/)  
