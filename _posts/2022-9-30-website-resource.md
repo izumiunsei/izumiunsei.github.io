@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "个人收集网站整合（更新中）"
+title:      "个人收集网站整合"
 subtitle:   "收集了半天最后却哪也找不到的傻逼就是我自己"
 date:       2022-09-30 22:00:00
 author:     "泉雲清"
@@ -21,6 +21,7 @@ latex网站在笔记里。后续也会搬上来
 预计在本月完成留存的网页归档，包括edge（绝大部分,因为chrome的都不知道丢哪去了）以及safari（或许有上千个网页了orz  
 **2022.10.12** 对于Windows上的页面清理了能有八成，但还想起来iPad和Mac上还有一些网站，头疼……  
 **2022.10.25** 整理的过程中神必消失的网页还有不断积累的新网页orz 已经开摆了，能整多少是多少了
+**2022.10.26** 整理暂告一段落，后续就是单独添加和删除了。基本上把能看到的都整理了一遍，还顺道整理了zotero里的论文，下次还是在每次看文献之前分类好些，不然实在是太麻烦了  
 
 # 学术
 ## 知识类
@@ -58,6 +59,8 @@ latex网站在笔记里。后续也会搬上来
 
 
 - NMR相关
+[AIST:Spectral Database for Organic Compounds,SDBS](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_search.cgi)  NMR数据库
+
 **量子力学相关的**  
 [Lectures (colorado.edu)](https://physicscourses.colorado.edu/phys5250/phys5250_fa19/lecture/)  
 [物理学笔记 - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1238830411763482624)  
@@ -103,7 +106,8 @@ latex网站在笔记里。后续也会搬上来
 [球谐函数是什么？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/26405495)  
 
 [计算机模拟：生化环材研究生的自我救赎之道 - 知乎](https://zhuanlan.zhihu.com/p/447289459)  
-[Exercises and Solutions - Computing Skills for Biologists](https://computingskillsforbiologists.com/downloads/exercises/)
+[Exercises and Solutions - Computing Skills for Biologists](https://computingskillsforbiologists.com/downloads/exercises/)  
+[NMR Weblab 6.7.2 (mpg.de)](https://weblab2.mpip-mainz.mpg.de/weblab67/)   
 
 
 **教材**
@@ -141,6 +145,10 @@ latex网站在笔记里。后续也会搬上来
 
   - 复分析、数学物理方法
   [复数的实矩阵表示 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/160270375)  
+  - 微分方程  
+  [（回忆大学所学）常微分方程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38573924)  
+  [线性微分方程 - 维基百科，自由的百科全书 (wikipedia.org)](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B)  
+
 
 - Polymer  
 [Rotating reference frame - Wikipedia](https://en.wikipedia.org/wiki/Rotating_reference_frame)  

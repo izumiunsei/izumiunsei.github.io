@@ -13,17 +13,16 @@ tags:
 博客是建立起来了，毕竟是套用现成的模版，还是有万千知识等着学习。~~后期应该会拆成两部分~~。  
 ## 更新履历
 **2022.10.2** 重新安排架构
-
+**2022.10.26** 初步整理，估计这几天能够整理好，后续应该会慢慢加进来新的资源
 # 前言  
 本post旨在囊括有关网站建设的资源，但重点在于编程语言如HTML的学习网站与相关工具如GitHub的使用。对于**工具**的具体操作步骤（及代码）此处会有详细的讲解，**语言**的具体细节（也就是代码）不会出现在此篇post中。
   
 # 本体 
-[将 Hexo 部署到 GitHub Pages | Hexo](https://hexo.io/zh-cn/docs/github-pages)
 [Travis CI - Test and Deploy with Confidence](https://app.travis-ci.com/signin?redirectUrl=https%3A%2F%2Fapp.travis-ci.com%2Faccount%2Fplan%3FbillingStep%3D3)
 [ssh-agent - 小 楼 一 夜 听 春 雨 - 博客园](https://www.cnblogs.com/kex1n/p/5229493.html)
-[Jekyll / Hugo / Hexo Comparison | The Coding Notes](https://lexcao.io/posts/jekyll-hugo-hexo/)
+
 [github - fatal: could not create work tree dir 'kivy' - Stack Overflow](https://stackoverflow.com/questions/16376035/fatal-could-not-create-work-tree-dir-kivy)
-[❤ 💻 Git - git config - error: could not lock config file - Permission denied - Dirask](https://dirask.com/posts/Git-git-config-error-could-not-lock-config-file-Permission-denied-Kj825D)
+
 ## HTML  
   ### 入门教程  
 
@@ -44,6 +43,7 @@ tags:
 ## Git
   ### Git命令汇总    
 [git 常用命令总结 - Xheldon Blog](https://www.xheldon.com/tech/git-command.html)  
+[❤ 💻 Git - git config - error: could not lock config file - Permission denied - Dirask](https://dirask.com/posts/Git-git-config-error-could-not-lock-config-file-Permission-denied-Kj825D)  
 
 --- 
 
@@ -115,7 +115,7 @@ ssh -T git@github.com  # 检查与GitHub的连接
 
   ### 安装  
  macOS安装Jekyll  <https://zhuanlan.zhihu.com/p/350462079>  
- 
+
   ### 具体细节  
 
 --- 
@@ -134,6 +134,9 @@ tree命令  <https://segmentfault.com/a/1190000009962072>
 [将 Hexo 部署到 GitHub Pages - Google Search](https://www.google.com/search?client=safari&rls=en&q=%E5%B0%86+Hexo+%E9%83%A8%E7%BD%B2%E5%88%B0+GitHub+Pages&ie=UTF-8&oe=UTF-8)  
 [node.js - 使用Hexo框架搭建博客，并部署到github上_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000018250408)  
 [One-Command Deployment | Hexo](https://hexo.io/docs/one-command-deployment#Bip)  
+[将 Hexo 部署到 GitHub Pages | Hexo](https://hexo.io/zh-cn/docs/github-pages)  
+[Jekyll / Hugo / Hexo Comparison | The Coding Notes](https://lexcao.io/posts/jekyll-hugo-hexo/)  
+
 
 ---
 

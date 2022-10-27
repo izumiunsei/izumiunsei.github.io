@@ -26,6 +26,10 @@ tags:
 [MATLAB 快速入门 - MathWorks 中国](https://ww2.mathworks.cn/help/matlab/getting-started-with-matlab.html?s_tid=CRUX_lftnav)
 
 ### 编程细节
+[【Matlab基础】04. 自定义函数 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/25530879)  
+[MATLAB 论坛 – MATLAB中文论坛 (ilovematlab.cn)](https://www.ilovematlab.cn/forum.php?gid=3)  
+[matlab 去除INF或者NAN的方法_lyf-fancy的博客-CSDN博客_matlab剔除inf](https://blog.csdn.net/qq_33713592/article/details/84334368)  
+[matlab 设置坐标轴位置/方向 y轴反向__沥川往事的博客-CSDN博客_matlab坐标轴反转](https://blog.csdn.net/yuejisuo1948/article/details/80801506)  
 
 ### 其他
 [GNU Octave](https://www.gnu.org/software/octave/) 能与matlab兼容的编程语言，数学导向及可视化，没用过就是了  
@@ -42,6 +46,10 @@ tags:
 [np.zeros: How to Use numpy zeros() Function (appdividend.com)](https://appdividend.com/2022/02/27/np-zeros/#:~:text=The%20np.zeros%20%28%29%20is%20a%20numpy%20library%20function,under%20NumPy%2C%20imported%20as%20import%20numpy%20as%20np.)  
 [numpy.sum() in Python - GeeksforGeeks](https://www.geeksforgeeks.org/numpy-sum-in-python/?ref=gcse)  
 [Python numpy学习（2）——矩阵的用法 - 战争热诚 - 博客园 (cnblogs.com)](https://www.cnblogs.com/wj-1314/p/10244807.html)  
+[【LIST】【ndarray】加法区别_柠檬啵的博客-CSDN博客_ndarray加法](https://blog.csdn.net/weixin_41401924/article/details/106071859#:~:text=numpy%E4%B8%AD%E7%9A%84array%E7%9A%84%E7%9B%B8%E5%8A%A0%E6%98%AF%E5%AF%B9%E5%BA%94%E5%85%83%E7%B4%A0%E7%9B%B8%E5%8A%A0%EF%BC%8C%E4%B9%9F%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E7%9F%A9%E9%98%B5%E5%8A%A0%E6%B3%95%E3%80%82%20import%20numpy%20as%20np%20A%20%3D%20np.array%28%5B2%2C,%2B%20B%20print%28C%29%20%23%20%E7%BB%93%E6%9E%9C%EF%BC%9A%20%5B3%203%5D%201)  
+[python numpy中的矩阵、向量的加减乘除_Amy_mm的博客-CSDN博客_numpy矩阵减向量](https://blog.csdn.net/Amy_mm/article/details/89299376)  
+[numpy.ndarray与list加法，np.array和list的使用区别_myhome908的博客-CSDN博客](https://blog.csdn.net/myhome908/article/details/88378667)  
+[python列表相加的方法：两个list [] 加法_罗四强的博客-CSDN博客_列表相加](https://blog.csdn.net/weixin_42350212/article/details/80628539)  
  
 
 ### 细节  
@@ -83,5 +91,8 @@ tags:
 
 ### 格式  
 [现代Fortran的推荐范式 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/100615040)  
+
+# 纪念版  
+[Absoft Pro Fortran Compilers and Debuggers for All Platforms](https://www.absoft.com/)  
 
 
