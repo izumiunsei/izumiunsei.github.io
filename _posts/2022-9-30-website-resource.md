@@ -53,12 +53,12 @@ latex网站在笔记里。后续也会搬上来
 [见证奇迹的时刻：如何从麦克斯韦方程组推出电磁波 - 知乎](https://zhuanlan.zhihu.com/p/81867668)  
 
 ### 在用着的
-- Polymer General
+- Polymer General  
 [R-S构型标记法该怎样去理解？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/321849360)  
 [Plastics Technology](https://polymerdatabase.com/main.html)  
 
 
-- NMR相关
+- NMR相关  
 [AIST:Spectral Database for Organic Compounds,SDBS](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_search.cgi)  NMR数据库
 
 **量子力学相关的**  
@@ -110,11 +110,11 @@ latex网站在笔记里。后续也会搬上来
 [NMR Weblab 6.7.2 (mpg.de)](https://weblab2.mpip-mainz.mpg.de/weblab67/)   
 
 
-**教材**
+**教材**  
 [Chapter 1 - NMR Methods for Characterization of Synthetic and Natural Polymers (RSC Publishing)](https://pubs.rsc.org/en/content/chapter/9781788016483-00001/978-1-78801-400-7/unauth)  
 
 
-**其他**
+**其他**  
 [spin_rha.dvi (princeton.edu)](https://www.princeton.edu/~romalis/PHYS312/Spin_echo.pdf)  
 
 [Larmor frequency - Questions and Answers ​in MRI (mriquestions.com)](https://www.mriquestions.com/who-was-larmor.html)  
@@ -143,7 +143,7 @@ latex网站在笔记里。后续也会搬上来
   - 线性代数  
   [矩阵乘法核心思想（1）：列空间 - 知乎](https://zhuanlan.zhihu.com/p/327042762)  
 
-  - 复分析、数学物理方法
+  - 复分析、数学物理方法  
   [复数的实矩阵表示 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/160270375)  
   - 微分方程  
   [（回忆大学所学）常微分方程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38573924)  
@@ -266,7 +266,7 @@ latex网站在笔记里。后续也会搬上来
 [【下载站】TLMC东方同人音乐完全索引下载(3.02TB)\[永续更新\] - 喵玉资源馆 - 喵玉殿论坛 · 喵玉汉化组](https://bbs.nyasama.com/forum.php?mod=viewthread&tid=76972)  
 
 ### 其他
-[一直中二一直爽！「吹响吧！上低音号」京蜜半日圣地巡礼嗨翻纪实 - 哔哩哔哩](https://www.bilibili.com/read/cv4817693/)  有一天我也要去一趟！
+[一直中二一直爽！「吹响吧！上低音号」京蜜半日圣地巡礼嗨翻纪实 - 哔哩哔哩](https://www.bilibili.com/read/cv4817693/)  有一天我也要去一趟！  
 [动画笨蛋 - 京吹](https://kyoani.cn/anibaka?traned=1&sort=)  京阿尼员工的碎碎念翻译合辑  
 
 ## 体育、运动
@@ -305,7 +305,7 @@ latex网站在笔记里。后续也会搬上来
 
 
 ### Mac OS
-[精品MAC应用分享](https://xclient.info/)  好！
+[精品MAC应用分享](https://xclient.info/)  好！  
 [MacWk - 精品mac软件下载](https://macwk.com/)  中文站做得最好的（之一） （22.10.26注：关站了 （悲） 
 [Cmacked - Cracked Mac Apps & Games](https://apps.cmacked.com/)  国外的网站，对我来说还更快些  
 [Mac Torrents | Torrent Download Apple, Mac OSX Apps & Games Download](https://mactorrents.io/)  

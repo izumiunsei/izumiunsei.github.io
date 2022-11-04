@@ -12,7 +12,7 @@ tags:
 ---
 博客是建立起来了，毕竟是套用现成的模版，还是有万千知识等着学习。~~后期应该会拆成两部分~~。  
 ## 更新履历
-**2022.10.2** 重新安排架构
+**2022.10.2** 重新安排架构  
 **2022.10.26** 初步整理，估计这几天能够整理好，后续应该会慢慢加进来新的资源
 # 前言  
 本post旨在囊括有关网站建设的资源，但重点在于编程语言如HTML的学习网站与相关工具如GitHub的使用。对于**工具**的具体操作步骤（及代码）此处会有详细的讲解，**语言**的具体细节（也就是代码）不会出现在此篇post中。
@@ -48,7 +48,7 @@ tags:
 --- 
 
 ## GitHub
-  ### 本地项目的推拉  
+### 本地项目的推拉  
 由于GitHub基本是自己在用，没有什么合作的需求，所以此处并不放上分支操作。b站上有视频教程，有需要的自行搜索  
 - 参考资料：
 [本地项目推送到远程仓库gitHub上（超详细） - 知乎](https://zhuanlan.zhihu.com/p/90168946)  
@@ -72,7 +72,7 @@ tags:
 3. 添加了SSH keys依旧显示 Permission denied(publickey)  
     这种事常发生在想添加多个ssh keys的情况，因为第一个ssh keys一般是默认的，而之后的ssh keys需要改名，
     避免与之前的名字重合。而git（或者ssh？）似乎只识别特定名称的key，比如id_rsa，id_ed25519。如果起了如github之类的名字是认不出来的。还要注意ssh keys需要挪到.ssh目录下才能识别，因为生成key的位置是terminal当前的位置。
-  ### SSH keys & GPG  
+### SSH keys & GPG  
 
 1. 一台电脑配置多个SSH keys
     <https://support.huaweicloud.com/codehub_faq/codehub_faq_0002.html>
@@ -97,7 +97,7 @@ tags:
 ssh -T git@github.com  # 检查与GitHub的连接
 ```
 
-  ### GitHub desktop相关
+### GitHub desktop相关
 1. 如何登出  
     快捷键：`ctrl` + `，`  
     不那么快的方法：  
@@ -111,12 +111,12 @@ ssh -T git@github.com  # 检查与GitHub的连接
 --- 
 
 ## Jekyll 
-  ### 官网  
+### 官网  
 
-  ### 安装  
+### 安装  
  macOS安装Jekyll  <https://zhuanlan.zhihu.com/p/350462079>  
 
-  ### 具体细节  
+### 具体细节  
 
 --- 
 
